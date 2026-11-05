@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=333333)
 <!-- GitHub 통계 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojun1333&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs?username=seojun1333&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojun1333&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Seojun's GitHub stats](https://readme-stats-fast.vercel.app/api?username=seojun1333&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
